@@ -2,6 +2,6 @@
 public class Main {
 
     public static void main (String [] args){
-        System.out.println("Yasuo musor!!!!#!$!!$!!!!!!");
+        System.out.println("Yasuo musor!!!!#!$!!$!!!!!2!");
     }
 }
